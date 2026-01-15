@@ -1,0 +1,28 @@
+body
+{
+    background: blue;
+}
+.cv 
+{
+    width: 800px;
+    background: #129e25;
+}
+header
+{
+    text-align: center;
+}
+.subtitle 
+{
+    color: #1b0d4e;
+}
+h2 {
+    border: 2px solid #ddd;
+}
+button {
+    cursor: pointer;
+}
+.przycisk
+{
+    color: #960505;
+    background: #960505;
+}
